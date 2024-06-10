@@ -1,0 +1,43 @@
+F.B.S
+R.B.S
+HBA1C
+GTT
+Urea
+Creatinine
+Uric Acid
+Cholestrol
+Triglycerides
+HDL
+LDL
+T.Bilirubin
+D.Bilirubin
+T.Protein
+Albumin
+GPT
+GOT
+ALP
+LDH
+CK
+CK-MB
+Troponin-1
+Acid-Phosphat
+Globulin
+T.I.B.C
+S.Iron
+S.Ferritin
+G6PD
+Phosphorus
+Calcium
+Mg
+Na
+K
+CL
+ABG
+D-dimer
+Vit B12
+Vit D
+24H Urine Protein
+24H Urine Ca
+Semen Faractorse
+Small
+Large

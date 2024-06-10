@@ -1,0 +1,17 @@
+TSH
+FT3
+FT4
+TT3
+TT4
+PTH
+Thyroglobulin
+B-HCG
+FSH
+LH
+Prolactin
+Progesterone
+Teststeron
+GH
+Cortisol 8 PM
+Cortisol 8 AM
+Estradiol

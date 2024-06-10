@@ -1,0 +1,21 @@
+HBs-Ag
+HBs-Ab
+HBe-Ag
+HBe-Ab
+HBc-Ab IgM
+HCV-Ab
+HIV 1&2
+HAV IgM
+HAV IgG
+TOXO IgG
+TOXO IgM
+CMV IgG
+CMV IgM
+Rubella IgG
+Rubella IgM
+Herpes IgG
+Herpes IgM
+Anti-Schistosmoa Ab
+Anti-Leishmania Ab
+Hydatid Cyst Ab
+H.Pylori Ab

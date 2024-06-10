@@ -1,0 +1,22 @@
+﻿Build started 07/12/39 12:57:45 ص.
+     1>Project "C:\Users\Hamza_Software\Documents\Visual Studio 2012\Projects\Project8\Project8\Project8.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Microsoft.VisualBasic.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\VBPowerPacks\v10.0\Microsoft.VisualBasic.PowerPacks.Vs.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp
+         MyForm.cpp
+     1>c:\users\hamza_software\documents\visual studio 2012\projects\project8\project8\testsearch.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\hamza_software\documents\visual studio 2012\projects\project8\project8\addres.h(197): warning C4101: 'S' : unreferenced local variable
+     1>c:\users\hamza_software\documents\visual studio 2012\projects\project8\project8\classes.h(131): warning C4715: 'user::comp_pass' : not all control paths return a value
+     1>c:\users\hamza_software\documents\visual studio 2012\projects\project8\project8\classes.h(141): warning C4715: 'user::getindex_name' : not all control paths return a value
+     1>c:\users\hamza_software\documents\visual studio 2012\projects\project8\project8\classes.h(150): warning C4715: 'user::getindex_pass' : not all control paths return a value
+     1>c:\users\hamza_software\documents\visual studio 2012\projects\project8\project8\classes.h(240): warning C4715: 'Patin::comp_pass' : not all control paths return a value
+     1>c:\users\hamza_software\documents\visual studio 2012\projects\project8\project8\classes.h(250): warning C4715: 'Patin::getindex_name' : not all control paths return a value
+     1>c:\users\hamza_software\documents\visual studio 2012\projects\project8\project8\classes.h(259): warning C4715: 'Patin::getindex_pass' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Hamza_Software\Documents\Visual Studio 2012\Projects\Project8\Release\Project8.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\Project8.addres.resources /ASSEMBLYRESOURCE:Release\Project8.getpatsheet.resources /ASSEMBLYRESOURCE:Release\Project8.messege1.resources /ASSEMBLYRESOURCE:Release\Project8.MyForm.resources /ASSEMBLYRESOURCE:Release\Project8.MyForm1.resources /ASSEMBLYRESOURCE:Release\Project8.MyForm2.resources /ASSEMBLYRESOURCE:Release\Project8.MyForm3.resources /ASSEMBLYRESOURCE:Release\Project8.PatForm.resources /ASSEMBLYRESOURCE:Release\Project8.patinet.resources /ASSEMBLYRESOURCE:Release\Project8.searchpatinet.resources /ASSEMBLYRESOURCE:Release\Project8.testsearch.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Hamza_Software\Documents\Visual Studio 2012\Projects\Project8\Release\Project8.pdb" /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH Release\MyForm.obj
+         "Release\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Project8.vcxproj -> C:\Users\Hamza_Software\Documents\Visual Studio 2012\Projects\Project8\Release\Project8.exe
+     1>Done Building Project "C:\Users\Hamza_Software\Documents\Visual Studio 2012\Projects\Project8\Project8\Project8.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:14.38

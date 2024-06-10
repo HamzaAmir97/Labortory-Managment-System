@@ -1,0 +1,9 @@
+PatinetSheet
+-------------------------------------------------------------
+     
+the name     ahed    the Age     20
+the Weidth    40    the test    DC
+the cost of test    10 $     the Adreass    eabb
+thephone.num    778899    the name of doctor    ramey
+the date of test    07/12/39 03:09:55 ص     
+-------------------------------------------------------------

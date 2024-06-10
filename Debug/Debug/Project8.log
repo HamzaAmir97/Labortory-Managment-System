@@ -1,0 +1,12 @@
+﻿Build started 12/10/39 08:53:31 ص.
+     1>Project "C:\Users\Hamza_Software\Documents\Visual Studio 2012\Projects\Project8\Project8\Project8.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Hamza_Software\Documents\Visual Studio 2012\Projects\Project8\Debug\Project8.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Project8.getpatsheet.resources /ASSEMBLYRESOURCE:Debug\Project8.messege1.resources /ASSEMBLYRESOURCE:Debug\Project8.MyForm.resources /ASSEMBLYRESOURCE:Debug\Project8.MyForm1.resources /ASSEMBLYRESOURCE:Debug\Project8.MyForm2.resources /ASSEMBLYRESOURCE:Debug\Project8.MyForm3.resources /ASSEMBLYRESOURCE:Debug\Project8.PatForm.resources /ASSEMBLYRESOURCE:Debug\Project8.patinet.resources /ASSEMBLYRESOURCE:Debug\Project8.searchpatinet.resources /ASSEMBLYRESOURCE:Debug\Project8.testsearch.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Hamza_Software\Documents\Visual Studio 2012\Projects\Project8\Debug\Project8.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\getpatsheet.obj
+         Debug\MyForm.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+     1>LINK : fatal error LNK1104: cannot open file 'C:\Users\Hamza_Software\Documents\Visual Studio 2012\Projects\Project8\Debug\Project8.exe'
+     1>Done Building Project "C:\Users\Hamza_Software\Documents\Visual Studio 2012\Projects\Project8\Project8\Project8.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:14.35

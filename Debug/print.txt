@@ -1,0 +1,9 @@
+PatinetSheet
+-------------------------------------------------------------
+     
+the name     mazin    the Age     18
+the Weidth    50    the test    RPR
+the cost of test    25 $     the Adreass    taiz
+thephone.num    6060    the name of doctor    hanzawi
+the date of test    07/12/39 01:00:42 ص     
+-------------------------------------------------------------

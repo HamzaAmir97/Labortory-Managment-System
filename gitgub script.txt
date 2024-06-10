@@ -1,0 +1,34 @@
+# ==== إعدادات المستخدم ====
+$ProjectFolder = "D:\projects\FinalProject\DiagnosingProject"
+$CommitMessage = "Full project has been added"
+$CommitDate = "2024-05-10T10:00:00"
+$GitName = "Hamzah A.A Amir"
+$GitEmail = "alhamza2012@gmail.com"
+$RepoURL = "https://github.com/HamzaAmir97/DiagnosingProject.git"
+
+# ==== تنفيذ الأوامر ====
+# الانتقال إلى مجلد المشروع
+Set-Location -Path $ProjectFolder
+
+# تفعيل دعم المسارات الطويلة
+git config --system core.longpaths true
+
+# تهيئة Git
+git init
+git config user.name $GitName
+git config user.email $GitEmail
+
+# إضافة كل الملفات
+git add .
+
+# عمل الكوميت بتاريخ قديم
+$env:GIT_AUTHOR_DATE = $CommitDate
+$env:GIT_COMMITTER_DATE = $CommitDate
+git commit -m $CommitMessage
+
+# رفع المشروع
+git branch -M main
+git remote add origin $RepoURL
+git push -u origin main
+
+Write-Output "✅ تم رفع المشروع بنجاح بتاريخ $CommitDate"
